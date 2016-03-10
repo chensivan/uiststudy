@@ -21,7 +21,7 @@ $(document).ready(function(){
                 "Rated": "PG",
                 "Released": "27 Nov 2013",
                 "Runtime": "102 min",
-                "Genre": "Animation, Adventure, Comedy",
+                "Genre": "Animation, hellow Adventure, Comedy",
                 "Director": "Chris Buck, Jennifer Lee",
                 "Writer": "Jennifer Lee (screenplay), Hans Christian Andersen (story), Chris Buck (story), Jennifer Lee (story), Shane Morris (story)",
                 "Actors": "Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad",
