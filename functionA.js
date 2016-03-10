@@ -21,15 +21,12 @@ $(document).ready(function(){
                 "Rated": "PG",
                 "Released": "27 Nov 2013",
                 "Runtime": "102 min",
+                "Genre": "Animation, hellow Adventure, Comedy",
                 "Director": "Chris Buck, Jennifer Lee",
                 "Writer": "Jennifer Lee (screenplay), Hans Christian Andersen (story), Chris Buck (story), Jennifer Lee (story), Shane Morris (story)",
                 "Actors": "Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad",
                 "Plot": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
-                "Language": "English, Icelandic",
-                "Country": "USA",
-                "Awards": "Won 2 Oscars. Another 70 wins & 56 nominations.",
-                "Poster": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg",
-                "Metascore": "74",
+                "Language": "74",
                 "imdbRating": "7.6",
                 "imdbVotes": "396,070",
                 "imdbID": "tt2294629",
@@ -90,9 +87,8 @@ $(document).ready(function(){
   //What you need to do is the following:
   //A)create a json object to store the imdbRating value of searched movie.Searched movie means you
   //have clicked the button to see its information
-  //B)On the page, below Task 3 content, display a list that has all the movies you have search in
-  //the order of imdbRating. Each row of this list contains 3 columns: numerical ranking (out of
-  //total number of searched movies), title, and imdbRating
+  //B)Testing ABCD
+  //C) Testing 1234
 
 
   //**********add your code here ****************//
